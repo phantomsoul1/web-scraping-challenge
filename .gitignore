@@ -1,3 +1,6 @@
 
 .DS_Store
 testing/selenium-test-safari.py
+Missions_to_Mars/.ipynb_checkpoints/mission_to_mars-checkpoint.ipynb
+Missions_to_Mars/__pycache__/config.cpython-37.pyc
+Missions_to_Mars/__pycache__/scrape_mars.cpython-37.pyc
